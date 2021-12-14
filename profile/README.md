@@ -10,5 +10,5 @@ Basé sur Unity 3D Game Engine. Codé en C#.
 
 # By gameHUB Studios
 <p align="center">
-  <img src="https://github.com/epitaprojet2026s2/CahierDesCharges/blob/main/img/gamehub.png?raw=true" alt="drawing" width="200"/>
+  <img src="https://github.com/nyctalopia/Logo/blob/main/logo%20chouette%20blank%20autoupscale.png?raw=true" alt="drawing" width="200"/>
 </p>
