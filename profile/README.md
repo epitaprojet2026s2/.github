@@ -1,11 +1,15 @@
-# Nyctalopia - Jeu d'horreur
+# Nyctalopia
 
-## Accéder au repo privé GitLab
+| <img src = "https://nyctalopia.games/img/portfolio/foret2.jpg" width="300"/> | <img src = "https://nyctalopia.games/img/portfolio/1-1.jpg" width="300"/> |
+| ------- | ------------------ |
+| Forêt | Paysage |
+
+## 🔒 Accéder au repo privé GitLab
 <a href="https://gitlab.nyctalopia.games/">
   <img src="https://raw.githubusercontent.com/nyctalopia/.github/main/gitlab.png" alt="Login with GitLab" width="300"/>
 </a>
 
-## Projet de programmation S2 - 2026 EPITA
+## Jeu Vidéo d'horreur - Projet de programmation S2 - 2026 EPITA
 **Basé sur Unity 3D Game Engine. Codé en C#.**
 
 Le projet est à réaliser en groupe de quatre personnes (et seulement quatre). Sa durée est d'environ sept mois (de Décembre à Juin). Son contenu est libre ; c'est à dire que vous choisissez vous même le sujet de celui-ci. Ce peut être un Shoot'em Up, un jeux de réflexion, un logiciel mathématique, un ensemble d'utilitaires, etc. 
