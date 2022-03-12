@@ -1,8 +1,8 @@
 # Nyctalopia
 
-| <img src = "https://nyctalopia.games/img/portfolio/foret2.jpg" width="300"/> | <img src = "https://nyctalopia.games/img/portfolio/1-1.jpg" width="300"/> |
+| <img src = "https://nyctalopia.games/img/apropos/1.jpg" width="300"/> | <img src = "https://nyctalopia.games/img/apropos/ui1.png" width="300"/> |
 | ------- | ------------------ |
-| Forêt | Paysage |
+| Forêt | Interface Utilisateur |
 
 ## 🔒 Accéder au repo privé GitLab
 <a href="https://gitlab.nyctalopia.games/">
