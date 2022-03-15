@@ -21,6 +21,12 @@ Bien entendu, sa validation est soumise au responsable projet. Ce dernier peut r
 - [@StervenN](https://github.com/StervenN) - Guilhem Cros
 - [@MuchoFork8](https://github.com/MuchoFork8) - Marin Godefroy
 
+## Download :
+
+<a href="https://store.steampowered.com/app/1937920/Nyctalopia/">
+  <img src="https://raw.githubusercontent.com/nyctalopia/.github/main/download-on-steam.png" alt="Download on Steam" width="300"/>
+</a>
+
 ## Contact :
 - support@nyctalopia.games
 
