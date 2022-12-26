@@ -1,12 +1,13 @@
 # Nyctalopia
 
-| <img src = "https://nyctalopia.games/img/apropos/1.jpg" width="300"/> | <img src = "https://nyctalopia.games/img/apropos/ui1.png" width="300"/> |
-| ------- | ------------------ |
-| Forêt | Interface Utilisateur |
+| <img src="https://nyctalopia.hugofnm.fr/img/apropos/lobby.png" width="300"/> | <img src="https://nyctalopia.hugofnm.fr/img/apropos/ui1.png" width="300"/> | <img src = "https://nyctalopia.hugofnm.fr/img/apropos/light.jpg" width="300"/> |
+| ----- | --------------------- | ------ |
+| Forêt | Interface Utilisateur | Égouts |
 
-## 🔒 Accéder au repo privé GitLab
-<a href="https://gitlab.nyctalopia.games/">
-  <img src="https://raw.githubusercontent.com/nyctalopia/.github/main/gitlab.png" alt="Login with GitLab" width="300"/>
+## Download :
+
+<a href="https://store.steampowered.com/app/1937920/Nyctalopia/">
+  <img src="https://raw.githubusercontent.com/nyctalopia/.github/main/steam.png" alt="Download on Steam" width="200"/>
 </a>
 
 ## Jeu Vidéo d'horreur - Projet de programmation S2 - 2026 EPITA
@@ -21,13 +22,12 @@ Bien entendu, sa validation est soumise au responsable projet. Ce dernier peut r
 - [@StervenN](https://github.com/StervenN) - Guilhem Cros
 - [@MuchoFork8](https://github.com/MuchoFork8) - Marin Godefroy
 
-## Download :
-
-<a href="https://store.steampowered.com/app/1937920/Nyctalopia/">
-  <img src="https://raw.githubusercontent.com/nyctalopia/.github/main/download-on-steam.png" alt="Download on Steam" width="300"/>
-</a>
-
 ## Contact :
-- support@nyctalopia.games
+- support@hugofnm.fr
 
-# By gameHUB Studios
+# By gameHUB Studios - MetrixMedia
+
+## 🔒 Accéder au repo privé GitLab
+<a href="https://gitlab.nyctalopia.games/">
+  <img src="https://raw.githubusercontent.com/nyctalopia/.github/main/gitlab.png" alt="Login with GitLab" width="300"/>
+</a>
